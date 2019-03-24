@@ -23,8 +23,8 @@ door and the remaining closed door.
 
 
 The problem is a paradox of the veridical type, because the correct choice (that
-one should switch doors) is so counterintuitive it can seem absurd, but is never-
-theless demonstrably true.
+one should switch doors) is so counterintuitive it can seem absurd, but is
+nevertheless demonstrably true.
 
 
 The solution:
